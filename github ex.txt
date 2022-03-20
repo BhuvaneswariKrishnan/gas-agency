@@ -1,10 +1,11 @@
 •	Inventory Management
 •	Account
 •	Consumer Management
-•	Reports
+•	Reports 
 
 •	Understanding the test requirement.
 •	Involved in DSM and all review meetings.
 •	Involved in Functional and Regression testing.
 •	Finding defects while executing test cases
 •	Creating bug report and done retest once the bug is fixed.
+HIDING LAST SEEN 
