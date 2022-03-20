@@ -9,3 +9,5 @@
 •	Finding defects while executing test cases
 •	Creating bug report and done retest once the bug is fixed.
 HIDING LAST SEEN 
+adding video cal features
+adding audio cal
